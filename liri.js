@@ -39,16 +39,24 @@ function movieThis(){
 	};
 
 	// Setting the variable for the API call 
-	var omdbAPIURL = "http://omdbapi.com?t=" + movieTitle + "&r=json";
+	var omdbAPIURL = "http://omdbapi.com?t=" + movieTitle + "&r=json&tomatoes=true";
 
 	// Requesting the information from OMDB
 	request(omdbAPIURL, function (error, response, body) {
 		// If no error, and response code is 200, which means works fine, then return the data. 
-		console.log("Movie Title: " + movieTitle);
+
 
  		if (!error && response.statusCode == 200) {
 			var movie = JSON.parse(body); 
-			console.log(movieTitle + " IMDB Rating: " + movie.imdbRating);
+			console.log("Movie Title: " + movie.Title);
+			console.log("Year Released: " + movie.Year);
+			console.log("IMDB Rating: " + movie.imdbRating);
+			console.log("Country: " + movie.Country);
+			console.log("Language Spoken: " + movie.Language);
+			console.log("Movie Plot: " + movie.Plot);
+			console.log("Actors: " + movie.Actors);
+			console.log("Rotten Tomato Rating: " + movie.tomatoUserMeter);
+			console.log("Rotten Tomato URL: " + movie.tomatoURL);
 		}
 
 		else{
