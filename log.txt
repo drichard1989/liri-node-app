@@ -1,0 +1,79 @@
+Wed Jan 18 2017 16:10:33 GMT-0600 (CST)
+node liri.js movie-this guardians of the galaxy
+Movie Title: Guardians of the Galaxy
+Year Released: 2014
+IMDB Rating: 8.1
+Country: USA, UK
+Country: English
+Movie Plot: A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.
+Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+Rotten Tomato Rating: 92
+RottenTomatoURL: http://www.rottentomatoes.com/m/guardians_of_the_galaxy/
+------------------
+Wed Jan 18 2017 16:11:11 GMT-0600 (CST)
+node liri.js movie-this the sandlot
+Movie Title: The Sandlot
+Year Released: 1993
+IMDB Rating: 7.8
+Country: USA
+Country: English
+Movie Plot: A new kid in town is taken under the wing of a young baseball prodigy and his team in this coming of age movie set in the summer of 1962. Together, they get themselves into many adventures involving rival teams, lifeguards, and a vicious dog.
+Actors: Art LaFleur, Tom Guiry, Mike Vitar, Patrick Renna
+Rotten Tomato Rating: 89
+RottenTomatoURL: http://www.rottentomatoes.com/m/sandlot/
+------------------
+Wed Jan 18 2017 16:23:30 GMT-0600 (CST)
+node liri.js spotify-this-song 
+Artist: Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Preview Link: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+------------------
+Wed Jan 18 2017 16:29:17 GMT-0600 (CST)
+node liri.js my-tweets 
+
+♫ no ceiling, when we in our zone ♫
+CAN'T STOP THE FEELING! (Original Song From DreamWorks Animation's "Trolls") by @JTimberlake
+
+RT @AtcherLizzie: @jtimberlake @britneyspears #pcas2014 #peopleschoiceawards2014 @peopleschoice https://t.co/TBmCqyFOIv
+
+RT @JCollierMusic: Here's a rockin' @jtimberlake -flavoured #IHarmU from @alyssa_lein ! #PusherLoveGirl https://t.co/T6GvOa2x9S
+
+@jtimberlake @bookoflovefilm ,thanks for soup there it is helped me get through mom dying and death
+
+RT @InStyle: .@JessicaBiel says music collab with @JTimberlake would be super fun” https://t.co/805jv5APco
+
+RT @brides: How @JessicaBiel actually predicted her marriage to @jtimberlake: https://t.co/4t6WtGwXoL https://t.co/LGwJwO3uWs
+
+RT @staffdb66: My 8 year old just came up with this masterpiece.. and keeps singing true colours! @AnnaKendrick47 @jtimberlake @ZooeyDescha…
+
+RT @ChristineGumme1: @jtimberlake @bookoflovefilm
+
+@jtimberlake @bookoflovefilm
+
+@zeynepslamakas @fatmaanuruzunn @jtimberlake @mervegillerrr @Beyonce mecbursun cünkü
+
+I would like to go to a @jtimberlake concert 💞
+
+@jtimberlake Would you like to go to prom with me? xxx
+
+#nowplaying CAN'T STOP THE FEELING - @jtimberlake || pra animar aqui 😁😆
+
+@enesindibi @fatmaanuruzunn @jtimberlake @mervegillerrr @Beyonce justin var seni niye etiketledim zaten
+
+@zeynepslamakas @fatmaanuruzunn @jtimberlake @mervegillerrr @Beyonce @FloodMakinesi kardesim benim isim var yoksa inan ki gelirdim
+
+If @jtimberlake gets a royalty every time my gym plays Can't Stop the Feeling, congratulations on your ability to purchase Australia
+
+RT @williamrast: Good luck to @jtimberlake at the @peopleschoice awards tonight 💪 #PCAs https://t.co/TNz1NxsfHo
+
+Any situation can be made better by @jtimberlake singing Pusher Love Girl.
+
+------------------
+Wed Jan 18 2017 16:54:08 GMT-0600 (CST)
+node liri.js spotify-this-song 
+Artist: Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Preview Link: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+------------------

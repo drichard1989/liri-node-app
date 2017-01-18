@@ -10,12 +10,13 @@ var sourceRequest = process.argv[2];
 
 var input = "";
 
-
 if (process.argv.length > 3){
+
 	input = process.argv[3];
+
 	for (i=4; i<process.argv.length; i++){
-	input += " " + process.argv[i];
-	};	
+		input += " " + process.argv[i];
+	}
 
 }
 
@@ -42,15 +43,13 @@ switch (sourceRequest){
 
 // This is the function that requests the information from OMDB
 function movieThis(){
+
 	// Setting the variable for URL integration
 	var movieTitle = input;	
 
-	// Creating a for loop so I can input multiple word movie titles...
-	
-
-	if(movieTitle == ""){
+	if(movieTitle === ""){
 		movieTitle = "Mr. Nobody";
-	};
+	}
 
 	// Setting the variable for the API call 
 	var omdbAPIURL = "http://omdbapi.com?t=" + movieTitle + "&r=json&tomatoes=true";
@@ -59,25 +58,46 @@ function movieThis(){
 	request(omdbAPIURL, function (error, response, body) {
 		// If no error, and response code is 200, which means works fine, then return the data. 
 
-
  		if (!error && response.statusCode == 200) {
 			var movie = JSON.parse(body); 
-			console.log("Movie Title: " + movie.Title);
-			console.log("Year Released: " + movie.Year);
-			console.log("IMDB Rating: " + movie.imdbRating);
-			console.log("Country: " + movie.Country);
-			console.log("Language Spoken: " + movie.Language);
-			console.log("Movie Plot: " + movie.Plot);
-			console.log("Actors: " + movie.Actors);
-			console.log("Rotten Tomato Rating: " + movie.tomatoUserMeter);
-			console.log("Rotten Tomato URL: " + movie.tomatoURL);
+			var movieData = "";
+
+			var title = "Movie Title: " + movie.Title + "\n";
+			movieData += title;
+
+			var year = "Year Released: " + movie.Year + "\n";
+			movieData += year;
+
+			var rating = "IMDB Rating: " + movie.imdbRating + "\n";
+			movieData += rating;
+
+			var country = "Country: " + movie.Country + "\n";
+			movieData += country;
+
+			var language = "Country: " + movie.Language + "\n";
+			movieData += language;
+
+			var plot = "Movie Plot: " + movie.Plot + "\n";
+			movieData += plot;
+
+			var actors = "Actors: " + movie.Actors + "\n";
+			movieData += actors;
+
+			var tomatometer = "Rotten Tomato Rating: " + movie.tomatoUserMeter + "\n";
+			movieData += tomatometer;
+
+			var tomatourl = "RottenTomatoURL: " + movie.tomatoURL ;
+			movieData += tomatourl;
+
+			console.log(movieData);
+			logData(movieData);
 		}
 
 		else{
   			console.log(error);
-  		};
+  		}
 
-	});
+	}); //Closing tag for request OMDB
 } //Closing OMDB Moviethis function
 
 function returnTweets() {
@@ -91,14 +111,13 @@ function returnTweets() {
 	var access_token_key = twitterKeys['access_token_key'];
 	var access_token_secret = twitterKeys['access_token_secret'];
 
-
 	// This makes a new object 
 	var client = new Twitter({
 		consumer_key: consumer_key,
 		consumer_secret: consumer_secret,
 		access_token_key: access_token_key,
 		access_token_secret: access_token_secret
-	})
+	});
 
 	client.get('search/tweets', {q: 'jtimberlake', count: 20}, function(error, tweets, response){
 
@@ -114,17 +133,16 @@ function returnTweets() {
 				tweetContent += '\n' + tweets.statuses[i].text + '\n';
 			}
 			console.log(tweetContent);
-
+			logData(tweetContent);
 		}
-	})
-
-}
+	});
+} //Closing bracket for returnTweets function
 
 function spotifyThis(){
 
 	var songSelection = input;
 
-	if (input == ""){
+	if (input === ""){
 		songSelection = "The Sign";
 	}
 
@@ -135,22 +153,32 @@ function spotifyThis(){
 	    }
  
 	    else{
+	    	var songData = "";
 	    	var songReturn = data.tracks.items[0];
-	    	console.log("Artist: " + songReturn.artists[0].name);
-	    	console.log("Song Name: " + songReturn.name);
-			console.log("Preview Link: " + songReturn.preview_url);
-			console.log("Album Name: " + songReturn.album.name);
-	    	// console.log(data);
-	    	// console.log(input);
+
+	    	var artist = "Artist: " + songReturn.artists[0].name + "\n";
+	    	songData += artist;
+
+	    	var name = "Song Name: " + songReturn.name + "\n";
+	    	songData += name;
+
+	    	var preview = "Preview Link: " + songReturn.preview_url + "\n";
+	    	songData += preview;
+
+	    	var albumName = "Album Name: " + songReturn.album.name ;
+	    	songData += albumName;
+
+	    	console.log(songData);
+	    	logData(songData);
 	    }
 	});
-}
+} // Closing bracket for spotifyThis function
 
 function doWhatItSays() {
 	//The code for the parameter do-what-it-says
 	fs.readFile("random.txt", "utf8", function(err, data) {
 		var dataArr = data.split(",");
-		action = dataArr[0];
+		sourceRequest = dataArr[0];
 		if (dataArr.length > 1) {
 			input = dataArr[1];
 		}
@@ -158,9 +186,9 @@ function doWhatItSays() {
 	});
 }
 
-function logInfo(info) {
+function logData(info) {
 	var date = new Date();
-	var log = date + "\nnode liri.js " + action + " " + input + "\n" + info + "\n";
+	var log = date + "\nnode liri.js " + sourceRequest + " " + input + "\n" + info + "\n" + "------------------" + "\n";
 	fs.appendFile("log.txt", log, function(err) {
 		if (err) {
 			throw err;
