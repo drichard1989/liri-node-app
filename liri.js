@@ -6,11 +6,17 @@ var Spotify = require("spotify");
 
 
 var sourceRequest = process.argv[2];
-var input = process.argv[3];
 
-for (i=4; i<process.argv.length; i++){
+var input = "";
+
+
+if (process.argv.length > 3){
+	input = process.argv[3];
+	for (i=4; i<process.argv.length; i++){
 	input += " " + process.argv[i];
 	};	
+
+}
 
 // Lets create a switch case for multiple requests from the same document.
 
@@ -32,10 +38,7 @@ switch (sourceRequest){
 // This is the function that requests the information from OMDB
 function movieThis(){
 	// Setting the variable for URL integration
-	var movieTitle = input;
-
-	console.log(movieTitle);
-	
+	var movieTitle = input;	
 
 	// Creating a for loop so I can input multiple word movie titles...
 	
@@ -114,15 +117,26 @@ function returnTweets() {
 
 function spotifyThis(){
 
-	Spotify.search({ type: 'track', query: input }, function(err, data) {
+	var songSelection = input;
+
+	if (input == ""){
+		songSelection = "The Sign";
+	}
+
+	Spotify.search({ type: 'track', query: songSelection }, function(err, data) {
     if ( err ) {
         console.log('Error occurred: ' + err);
         return;
     }
  
     else{
-    	console.log(data);
-    	console.log(input);
+    	var songReturn = data.tracks.items[0];
+    	console.log("Artist: " + songReturn.artists[0].name);
+    	console.log("Song Name: " + songReturn.name);
+		console.log("Preview Link: " + songReturn.preview_url);
+		console.log("Album Name: " + songReturn.album.name);
+    	// console.log(data);
+    	// console.log(input);
     }
 });
 }
