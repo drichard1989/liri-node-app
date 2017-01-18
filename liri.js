@@ -3,6 +3,7 @@
 var request = require("request");
 var Twitter = require("twitter");
 var Spotify = require("spotify");
+var fs = require("fs");
 
 
 var sourceRequest = process.argv[2];
@@ -31,6 +32,10 @@ switch (sourceRequest){
 
 	case "spotify-this-song":
 		spotifyThis();
+		break;
+
+	case "do-what-it-says":
+		doWhatItSays();
 		break;
 }
 
@@ -124,22 +129,45 @@ function spotifyThis(){
 	}
 
 	Spotify.search({ type: 'track', query: songSelection }, function(err, data) {
-    if ( err ) {
-        console.log('Error occurred: ' + err);
-        return;
-    }
+	    if ( err ) {
+	        console.log('Error occurred: ' + err);
+	        return;
+	    }
  
-    else{
-    	var songReturn = data.tracks.items[0];
-    	console.log("Artist: " + songReturn.artists[0].name);
-    	console.log("Song Name: " + songReturn.name);
-		console.log("Preview Link: " + songReturn.preview_url);
-		console.log("Album Name: " + songReturn.album.name);
-    	// console.log(data);
-    	// console.log(input);
-    }
-});
+	    else{
+	    	var songReturn = data.tracks.items[0];
+	    	console.log("Artist: " + songReturn.artists[0].name);
+	    	console.log("Song Name: " + songReturn.name);
+			console.log("Preview Link: " + songReturn.preview_url);
+			console.log("Album Name: " + songReturn.album.name);
+	    	// console.log(data);
+	    	// console.log(input);
+	    }
+	});
 }
+
+function doWhatItSays() {
+	//The code for the parameter do-what-it-says
+	fs.readFile("random.txt", "utf8", function(err, data) {
+		var dataArr = data.split(",");
+		action = dataArr[0];
+		if (dataArr.length > 1) {
+			input = dataArr[1];
+		}
+		spotifyThis();
+	});
+}
+
+function logInfo(info) {
+	var date = new Date();
+	var log = date + "\nnode liri.js " + action + " " + input + "\n" + info + "\n";
+	fs.appendFile("log.txt", log, function(err) {
+		if (err) {
+			throw err;
+		}
+	});
+}
+
 
 
 
