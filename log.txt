@@ -77,3 +77,69 @@ Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
 Preview Link: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
 Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
 ------------------
+Thu Jan 19 2017 11:37:05 GMT-0600 (CST)
+node liri.js movie-this interstellar
+Movie Title: Interstellar
+Year Released: 2014
+IMDB Rating: 8.6
+Country: USA, UK
+Country: English
+Movie Plot: A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+Actors: Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow
+Rotten Tomato Rating: 85
+RottenTomatoURL: http://www.rottentomatoes.com/m/interstellar_2014/
+------------------
+Thu Jan 19 2017 11:37:21 GMT-0600 (CST)
+node liri.js spotify-this-song stairway to heaven
+Artist: Led Zeppelin
+Song Name: Stairway To Heaven
+Preview Link: https://p.scdn.co/mp3-preview/8226164717312bc411f8635580562d67e191a754?cid=null
+Album Name: Led Zeppelin IV (Deluxe Edition)
+------------------
+Thu Jan 19 2017 11:41:09 GMT-0600 (CST)
+node liri.js my-tweets 
+
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+
+RT @iHeartRadio: Check the list of winners from last night’s #PCAs including @FifthHarmony, @jtimberlake &amp; @britneyspears https://t.co/iSah…
+
+RT @peopleschoice: Watch @jtimberlake accept his #PCAs for “Favorite Song” and “Favorite Male Artist” #cantstopthefeeling https://t.co/nE0M…
+
+I see you @jtimberlake #MadeInPHILA https://t.co/dKUhl0Wn7h
+
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…
+
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+
+@watdez @jtimberlake @THETNKIDS and even tho *NSYNC member are grown they are all still hot
+
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+
+RT @peopleschoice: BFFS @jtimberlake and @theellen show celebrate at the #PCAs https://t.co/3xbRGRnXW8
+
+@watdez @jtimberlake @THETNKIDS #jealous and happy for you
+
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+
+RT @people: "You're the reason why I wrote this song." -@jtimberlake to son Silas 😭💕 #PCAs
+
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+
+RT @iHeartRadio: Check the list of winners from last night’s #PCAs including @FifthHarmony, @jtimberlake &amp; @britneyspears https://t.co/iSah…
+
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…
+
+@bndville2424 @jtimberlake @THETNKIDS I would love to meet all of them too especially JC! I met Lance in Dec! https://t.co/NnPsN7OZBu
+
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…
+
+RT @iHeartRadio: Check the list of winners from last night’s #PCAs including @FifthHarmony, @jtimberlake &amp; @britneyspears https://t.co/iSah…
+
+@jtimberlake congrats lav
+
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+
+------------------
