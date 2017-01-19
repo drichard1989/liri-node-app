@@ -143,3 +143,493 @@ RT @iHeartRadio: Check the list of winners from last night’s #PCAs including @
 RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
 
 ------------------
+Thu Jan 19 2017 16:23:47 GMT-0600 (CST)
+node liri.js spotify-this-song 
+Artist: Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Preview Link: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+------------------
+Thu Jan 19 2017 16:25:52 GMT-0600 (CST)
+node liri.js my-tweets 
+
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…
+
+RT @Trolls: Congratulations on your two People's Choice Awards, @jtimberlake! https://t.co/oA78EHZNP4
+
+RT @peopleschoice: BFFS @jtimberlake and @theellen show celebrate at the #PCAs https://t.co/3xbRGRnXW8
+
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…
+
+#iReesy (1/19/17): @Usher, @CraigDavid, @MsPattiPatti, @IAMANITABAKER, #LooseEnds, @therealfrankieJ, #TeenaMarie, #AceOfBase &amp; @jtimberlake
+
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+
+RT @THETNKIDS: Congrats to @jtimberlake on winning Favorite Song and Favorite Male Artist at last night's #PCAs 🏆 🏆 🏆 https://t.co/j3vkOm56…
+
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+
+No offense to @jtimberlake or anything, but if they play his song “Can't Stop the Feeling” at #Trump's inauguration, I'm gonna kill myself.
+
+RT @iHeartRadio: Check the list of winners from last night’s #PCAs including @FifthHarmony, @jtimberlake &amp; @britneyspears https://t.co/iSah…
+
+.@jtimberlake thanks @JessicaBiel and ‘beautiful son’ at PCAs https://t.co/EBDklstpOZ https://t.co/bYqJRp1ECO
+
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+
+RT @iHeartRadio: Check the list of winners from last night’s #PCAs including @FifthHarmony, @jtimberlake &amp; @britneyspears https://t.co/iSah…
+
+------------------
+Thu Jan 19 2017 16:35:07 GMT-0600 (CST)
+node liri.js spotify-this-song 
+Artist: Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Preview Link: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+------------------
+Thu Jan 19 2017 16:36:15 GMT-0600 (CST)
+node liri.js movie-this 
+Movie Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France
+Country: English, Mohawk
+Movie Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomato Rating: 76
+RottenTomatoURL: http://www.rottentomatoes.com/m/mr-nobody/
+------------------
+Thu Jan 19 2017 16:39:31 GMT-0600 (CST)
+node liri.js my-tweets 
+
+Read: @jtimberlake Jokes About Son Silas During @peopleschoice Awards Acceptance Speech https://t.co/JkIoyAn2n0 https://t.co/X3B5cDsTlO
+
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+
+RT @iHeartRadio: Check the list of winners from last night’s #PCAs including @FifthHarmony, @jtimberlake &amp; @britneyspears https://t.co/iSah…
+
+@jtimberlake #snl2003 #Saturdaynightlive2003 #omeletteville https://t.co/kbW1YoM8xi
+
+RT @people: "You're the reason why I wrote this song." -@jtimberlake to son Silas 😭💕 #PCAs
+
+#NowPlaying That Girl by @jtimberlake - LISTEN NOW! https://t.co/VpnQNUIxMJ
+ - Buy it https://t.co/BSrw43bJgm https://t.co/V2egryILG0
+
+' @drinkbai returning to #SuperBowl2017 with @jtimberlake in a national spot! Can't wait to live test their ad &amp; reveal its emotional score!
+
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…
+
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+
+RT @SILVIA_ivp: RT " @THETNKIDS Congrats to @jtimberlake on winning Favorite Song and Favorite Male Artist at last night's #PCAs 🏆 🏆 🏆 " ❤🎉…
+
+Papi  @jtimberlake cuando sacas disco nuevo y les enseñas a todos como es que se hace la verdadera música?
+
+RT @Trolls: Congratulations on your two People's Choice Awards, @jtimberlake! https://t.co/oA78EHZNP4
+
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+
+RT @Trolls: Congratulations on your two People's Choice Awards, @jtimberlake! https://t.co/oA78EHZNP4
+
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…
+
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+
+------------------
+Thu Jan 19 2017 16:39:49 GMT-0600 (CST)
+node liri.js my-tweets 
+
+Read: @jtimberlake Jokes About Son Silas During @peopleschoice Awards Acceptance Speech https://t.co/JkIoyAn2n0 https://t.co/X3B5cDsTlO
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+RT @iHeartRadio: Check the list of winners from last night’s #PCAs including @FifthHarmony, @jtimberlake &amp; @britneyspears https://t.co/iSah…
+@jtimberlake #snl2003 #Saturdaynightlive2003 #omeletteville https://t.co/kbW1YoM8xi
+RT @people: "You're the reason why I wrote this song." -@jtimberlake to son Silas 😭💕 #PCAs
+#NowPlaying That Girl by @jtimberlake - LISTEN NOW! https://t.co/VpnQNUIxMJ
+ - Buy it https://t.co/BSrw43bJgm https://t.co/V2egryILG0
+' @drinkbai returning to #SuperBowl2017 with @jtimberlake in a national spot! Can't wait to live test their ad &amp; reveal its emotional score!
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+RT @SILVIA_ivp: RT " @THETNKIDS Congrats to @jtimberlake on winning Favorite Song and Favorite Male Artist at last night's #PCAs 🏆 🏆 🏆 " ❤🎉…
+Papi  @jtimberlake cuando sacas disco nuevo y les enseñas a todos como es que se hace la verdadera música?
+RT @Trolls: Congratulations on your two People's Choice Awards, @jtimberlake! https://t.co/oA78EHZNP4
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+RT @Trolls: Congratulations on your two People's Choice Awards, @jtimberlake! https://t.co/oA78EHZNP4
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+------------------
+Thu Jan 19 2017 16:40:23 GMT-0600 (CST)
+node liri.js my-tweets 
+
+Read: @jtimberlake Jokes About Son Silas During @peopleschoice Awards Acceptance Speech https://t.co/JkIoyAn2n0 https://t.co/X3B5cDsTlO-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…-----------------------
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…-----------------------
+RT @iHeartRadio: Check the list of winners from last night’s #PCAs including @FifthHarmony, @jtimberlake &amp; @britneyspears https://t.co/iSah…-----------------------
+@jtimberlake #snl2003 #Saturdaynightlive2003 #omeletteville https://t.co/kbW1YoM8xi-----------------------
+RT @people: "You're the reason why I wrote this song." -@jtimberlake to son Silas 😭💕 #PCAs-----------------------
+#NowPlaying That Girl by @jtimberlake - LISTEN NOW! https://t.co/VpnQNUIxMJ
+ - Buy it https://t.co/BSrw43bJgm https://t.co/V2egryILG0-----------------------
+' @drinkbai returning to #SuperBowl2017 with @jtimberlake in a national spot! Can't wait to live test their ad &amp; reveal its emotional score!-----------------------
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…-----------------------
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…-----------------------
+RT @SILVIA_ivp: RT " @THETNKIDS Congrats to @jtimberlake on winning Favorite Song and Favorite Male Artist at last night's #PCAs 🏆 🏆 🏆 " ❤🎉…-----------------------
+Papi  @jtimberlake cuando sacas disco nuevo y les enseñas a todos como es que se hace la verdadera música?-----------------------
+RT @Trolls: Congratulations on your two People's Choice Awards, @jtimberlake! https://t.co/oA78EHZNP4-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…-----------------------
+RT @Trolls: Congratulations on your two People's Choice Awards, @jtimberlake! https://t.co/oA78EHZNP4-----------------------
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…-----------------------
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…-----------------------
+------------------
+Thu Jan 19 2017 16:40:39 GMT-0600 (CST)
+node liri.js my-tweets 
+
+Read: @jtimberlake Jokes About Son Silas During @peopleschoice Awards Acceptance Speech https://t.co/JkIoyAn2n0 https://t.co/X3B5cDsTlO
+-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+-----------------------
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+-----------------------
+RT @iHeartRadio: Check the list of winners from last night’s #PCAs including @FifthHarmony, @jtimberlake &amp; @britneyspears https://t.co/iSah…
+-----------------------
+@jtimberlake #snl2003 #Saturdaynightlive2003 #omeletteville https://t.co/kbW1YoM8xi
+-----------------------
+RT @people: "You're the reason why I wrote this song." -@jtimberlake to son Silas 😭💕 #PCAs
+-----------------------
+#NowPlaying That Girl by @jtimberlake - LISTEN NOW! https://t.co/VpnQNUIxMJ
+ - Buy it https://t.co/BSrw43bJgm https://t.co/V2egryILG0
+-----------------------
+' @drinkbai returning to #SuperBowl2017 with @jtimberlake in a national spot! Can't wait to live test their ad &amp; reveal its emotional score!
+-----------------------
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…
+-----------------------
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+-----------------------
+RT @SILVIA_ivp: RT " @THETNKIDS Congrats to @jtimberlake on winning Favorite Song and Favorite Male Artist at last night's #PCAs 🏆 🏆 🏆 " ❤🎉…
+-----------------------
+Papi  @jtimberlake cuando sacas disco nuevo y les enseñas a todos como es que se hace la verdadera música?
+-----------------------
+RT @Trolls: Congratulations on your two People's Choice Awards, @jtimberlake! https://t.co/oA78EHZNP4
+-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+-----------------------
+RT @Trolls: Congratulations on your two People's Choice Awards, @jtimberlake! https://t.co/oA78EHZNP4
+-----------------------
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…
+-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+-----------------------
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+-----------------------
+------------------
+Thu Jan 19 2017 16:45:51 GMT-0600 (CST)
+node liri.js my-tweets 
+
+@jtimberlake Congrats Man you deserve it
+-----------------------
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…
+-----------------------
+@jtimberlake  👏🏼👏🏼👏🏼👏🏼
+So exciting and so well deserved. Congrats 🎉🎉🎉
+-----------------------
+@NSYNC @JCChasez @jtimberlake @realjoeyfatone @IamCKirkpatrick @LanceBass ... If we could get a reunion tour, that… https://t.co/Oa1I11grVr
+-----------------------
+Read: @jtimberlake Jokes About Son Silas During @peopleschoice Awards Acceptance Speech https://t.co/JkIoyAn2n0 https://t.co/X3B5cDsTlO
+-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+-----------------------
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+-----------------------
+RT @iHeartRadio: Check the list of winners from last night’s #PCAs including @FifthHarmony, @jtimberlake &amp; @britneyspears https://t.co/iSah…
+-----------------------
+@jtimberlake #snl2003 #Saturdaynightlive2003 #omeletteville https://t.co/kbW1YoM8xi
+-----------------------
+RT @people: "You're the reason why I wrote this song." -@jtimberlake to son Silas 😭💕 #PCAs
+-----------------------
+#NowPlaying That Girl by @jtimberlake - LISTEN NOW! https://t.co/VpnQNUIxMJ
+ - Buy it https://t.co/BSrw43bJgm https://t.co/V2egryILG0
+-----------------------
+' @drinkbai returning to #SuperBowl2017 with @jtimberlake in a national spot! Can't wait to live test their ad &amp; reveal its emotional score!
+-----------------------
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…
+-----------------------
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+-----------------------
+RT @SILVIA_ivp: RT " @THETNKIDS Congrats to @jtimberlake on winning Favorite Song and Favorite Male Artist at last night's #PCAs 🏆 🏆 🏆 " ❤🎉…
+-----------------------
+Papi  @jtimberlake cuando sacas disco nuevo y les enseñas a todos como es que se hace la verdadera música?
+-----------------------
+RT @Trolls: Congratulations on your two People's Choice Awards, @jtimberlake! https://t.co/oA78EHZNP4
+-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+-----------------------
+------------------
+Thu Jan 19 2017 16:46:33 GMT-0600 (CST)
+node liri.js my-tweets 
+
+@jtimberlake #snl2003 #Saturdaynightlive2003 #bringitondowntoomeletteville https://t.co/RtZJdz0X9Y
+-----------------------
+@jtimberlake Congrats Man you deserve it
+-----------------------
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…
+-----------------------
+@jtimberlake  👏🏼👏🏼👏🏼👏🏼
+So exciting and so well deserved. Congrats 🎉🎉🎉
+-----------------------
+@NSYNC @JCChasez @jtimberlake @realjoeyfatone @IamCKirkpatrick @LanceBass ... If we could get a reunion tour, that… https://t.co/Oa1I11grVr
+-----------------------
+Read: @jtimberlake Jokes About Son Silas During @peopleschoice Awards Acceptance Speech https://t.co/JkIoyAn2n0 https://t.co/X3B5cDsTlO
+-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+-----------------------
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+-----------------------
+RT @iHeartRadio: Check the list of winners from last night’s #PCAs including @FifthHarmony, @jtimberlake &amp; @britneyspears https://t.co/iSah…
+-----------------------
+@jtimberlake #snl2003 #Saturdaynightlive2003 #omeletteville https://t.co/kbW1YoM8xi
+-----------------------
+RT @people: "You're the reason why I wrote this song." -@jtimberlake to son Silas 😭💕 #PCAs
+-----------------------
+#NowPlaying That Girl by @jtimberlake - LISTEN NOW! https://t.co/VpnQNUIxMJ
+ - Buy it https://t.co/BSrw43bJgm https://t.co/V2egryILG0
+-----------------------
+' @drinkbai returning to #SuperBowl2017 with @jtimberlake in a national spot! Can't wait to live test their ad &amp; reveal its emotional score!
+-----------------------
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…
+-----------------------
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+-----------------------
+RT @SILVIA_ivp: RT " @THETNKIDS Congrats to @jtimberlake on winning Favorite Song and Favorite Male Artist at last night's #PCAs 🏆 🏆 🏆 " ❤🎉…
+-----------------------
+Papi  @jtimberlake cuando sacas disco nuevo y les enseñas a todos como es que se hace la verdadera música?
+-----------------------
+RT @Trolls: Congratulations on your two People's Choice Awards, @jtimberlake! https://t.co/oA78EHZNP4
+-----------------------
+------------------
+Thu Jan 19 2017 16:47:30 GMT-0600 (CST)
+node liri.js movie-this 
+Movie Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France
+Country: English, Mohawk
+Movie Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomato Rating: 76
+RottenTomatoURL: http://www.rottentomatoes.com/m/mr-nobody/
+------------------
+Thu Jan 19 2017 16:49:34 GMT-0600 (CST)
+node liri.js movie-this 
+Movie Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France
+Country: English, Mohawk
+Movie Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomato Rating: 76
+RottenTomatoURL: http://www.rottentomatoes.com/m/mr-nobody/
+------------------
+Thu Jan 19 2017 16:49:55 GMT-0600 (CST)
+node liri.js movie-this 
+Movie Title: The Dark Knight
+Year Released: 2008
+IMDB Rating: 9.0
+Country: USA, UK
+Country: English, Mandarin
+Movie Plot: When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.
+Actors: Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine
+Rotten Tomato Rating: 94
+RottenTomatoURL: http://www.rottentomatoes.com/m/the_dark_knight/
+------------------
+Thu Jan 19 2017 16:50:14 GMT-0600 (CST)
+node liri.js movie-this 
+Movie Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France
+Country: English, Mohawk
+Movie Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomato Rating: 76
+RottenTomatoURL: http://www.rottentomatoes.com/m/mr-nobody/
+------------------
+Thu Jan 19 2017 16:53:44 GMT-0600 (CST)
+node liri.js movie-this 
+Movie Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France
+Country: English, Mohawk
+Movie Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomato Rating: 76
+RottenTomatoURL: http://www.rottentomatoes.com/m/mr-nobody/
+------------------
+Thu Jan 19 2017 17:16:24 GMT-0600 (CST)
+node liri.js movie-this 
+Movie Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France
+Country: English, Mohawk
+Movie Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomato Rating: 76
+RottenTomatoURL: http://www.rottentomatoes.com/m/mr-nobody/
+------------------
+Thu Jan 19 2017 17:16:39 GMT-0600 (CST)
+node liri.js movie-this 
+Movie Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France
+Country: English, Mohawk
+Movie Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomato Rating: 76
+RottenTomatoURL: http://www.rottentomatoes.com/m/mr-nobody/
+------------------
+Thu Jan 19 2017 17:16:52 GMT-0600 (CST)
+node liri.js my-tweets 
+
+RT @UMPG: Congrats @jtimberlake on winning Favorite Song for #CantStopTheFeeling &amp; Favorite Male Artist at the #PeoplesChoice awards #Songw…
+-----------------------
+RT @peopleschoice: May we all have the kind of friendship that @jtimberlake &amp; @TheEllenShow have. 😭❤️ #PCAs
+-----------------------
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+-----------------------
+RT @CBS: She’s a trailblazer, a rule breaker... &amp; one of the funniest, most talented, &amp;kindest ppl on the planet -@jtimberlake on @TheEllen…
+-----------------------
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…
+-----------------------
+RT @peopleschoice: BFFS @jtimberlake and @theellen show celebrate at the #PCAs https://t.co/3xbRGRnXW8
+-----------------------
+RT @x17online: Congrats to @TheEllenShow for winning a record-breaking 20 @peopleschoice awards!! @jtimberlake awarded! - https://t.co/R46t…
+-----------------------
+RT @MSTheater: .@jtimberlake presents @TheEllenShow with a few more awards to make her now hold the record for winning the most #PCAs in hi…
+-----------------------
+Nothing personal @jtimberlake but this guy reps OUR AMERICA a bit better. @TobyKeithMusic https://t.co/s7JoIh9BFj
+-----------------------
+RT @RubyRose: Congrats @jtimberlake !!! What a babe! https://t.co/ELl3Ysqr6H
+-----------------------
+@emresxner @jtimberlake He might be part vampire?? lol 😉
+-----------------------
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…
+-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+-----------------------
+RT @TheEllenShow: Thanks, Timby, for the amazing introduction. Of all the hunks on the stage, you were the hunkiest. @JTimberlake https://t…
+-----------------------
+@Trolls @jtimberlake Congrats Justin!!!!! You Deserved It!!!!! #PCAs
+-----------------------
+RT @LAgossdotcom: .@jtimberlake thanks @JessicaBiel and ‘beautiful son’ at PCAs https://t.co/EBDklstpOZ https://t.co/bYqJRp1ECO
+-----------------------
+RT @peopleschoice: A new record! Watch @jtimberlake congratulate @TheEllenShow
+for winning the most #PCAs in history! https://t.co/2oEvD6mD…
+-----------------------
+RT @accesshollywood: Our faves! @jtimberlake helped @TheEllenShow celebrate a HUGE milestone at the #PeoplesChoice Awards! https://t.co/Bsr…
+-----------------------
+RT @radiodisney: Congrats to all the winners at @peopleschoice! @NiallOfficial @FifthHarmony @britneyspears @jtimberlake @findingdory @NBCT…
+-----------------------
+RT @mikewickett: noooooooooooooooo! @WoodyHarrelson ! @wesleysnipes!!!! nooooo! sorry, @jtimberlake but noooooooo!!!! https://t.co/zM3rEpcR…
+-----------------------
+------------------
+Thu Jan 19 2017 17:17:06 GMT-0600 (CST)
+node liri.js spotify-this-song 
+Artist: Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Preview Link: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+------------------
+Thu Jan 19 2017 17:17:28 GMT-0600 (CST)
+node liri.js spotify-this-song stairway to heaven
+Artist: Led Zeppelin
+Song Name: Stairway To Heaven
+Preview Link: https://p.scdn.co/mp3-preview/8226164717312bc411f8635580562d67e191a754?cid=null
+Album Name: Led Zeppelin IV (Deluxe Edition)
+------------------
+Thu Jan 19 2017 17:18:28 GMT-0600 (CST)
+node liri.js spotify-this-song "I Want it That Way"
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+Album Name: The Hits--Chapter One
+------------------
+Thu Jan 19 2017 17:19:39 GMT-0600 (CST)
+node liri.js spotify-this-song master of puppets
+Artist: Metallica
+Song Name: Master Of Puppets
+Preview Link: https://p.scdn.co/mp3-preview/60e6f8dab43f176dd9fb5e795d4e6459bad52e9e?cid=null
+Album Name: Master Of Puppets
+------------------
+Thu Jan 19 2017 17:19:58 GMT-0600 (CST)
+node liri.js spotify-this-song whiplash
+Artist: Hank Levy
+Song Name: Whiplash
+Preview Link: https://p.scdn.co/mp3-preview/a050df3fa55db058715910f61e00ec402769193a?cid=null
+Album Name: Whiplash (Original Motion Picture Soundtrack)
+------------------
+Thu Jan 19 2017 17:20:07 GMT-0600 (CST)
+node liri.js spotify-this-song the four horsemen
+Artist: Metallica
+Song Name: The Four Horsemen (Remastered)
+Preview Link: https://p.scdn.co/mp3-preview/e9ef20abd055305ca0d5ad6e1aa3f6db115ad679?cid=null
+Album Name: Kill 'Em All (Remastered)
+------------------

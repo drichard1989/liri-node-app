@@ -1,4 +1,4 @@
-console.log('this is loaded');
+console.log('Twitter keys are loaded');
 
 exports.twitterKeys = {
   consumer_key: '<input-here>',

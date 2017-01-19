@@ -132,21 +132,23 @@ function returnTweets() {
 	client.get('search/tweets', {q: 'jtimberlake', count: 20}, function(error, tweets, response){
 
 		// If error, return error.
-		if(error){
-			console.log(error);
-			throw error;
-		}
-
-		// This is the else statement that will save the content to a variable, return the tweets on new lines for readability, then print it to the console, and then log it to the log.txt file.
-		else{
+		if(!error){
 			var tweetContent = "";
 			for (i = 0; i < tweets.statuses.length; i++){
-				tweetContent += '\n' + tweets.statuses[i].text + '\n';
+				tweetContent += '\n' + tweets.statuses[i].text + "\n" + "-----------------------";
 			}
 			// Prints the content of tweetContent
 			console.log(tweetContent);
 			// Logs the content  of tweetContent to the log.txt file
 			logData(tweetContent);
+		}
+
+		// This is the else statement that will save the content to a variable, return the tweets on new lines for readability, then print it to the console, and then log it to the log.txt file.
+		else{
+			console.log(error);
+			throw error;
+			
+
 		}
 	});
 } //Closing bracket for returnTweets function
@@ -155,6 +157,7 @@ function spotifyThis(){
 
 	// Here we create a variable to be equal to whatever the content requested to be returned is.
 	var songSelection = input;
+
 
 	// Per the homework, if there is no inquiry input, then change the input to The Sign
 	if (input === ""){
@@ -191,6 +194,7 @@ function spotifyThis(){
 	    	console.log(songData);
 	    	// Logs the content of songData
 	    	logData(songData);
+
 	    }
 	});
 } // Closing bracket for spotifyThis function
